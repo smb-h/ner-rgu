@@ -1,17 +1,12 @@
-# ner_rgu
-
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+# NER-RGU
 
 NER RGU PhD Interview Task 2025
 
-## Project Organization
+
+
+## Project Structure
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
@@ -26,9 +21,6 @@ NER RGU PhD Interview Task 2025
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         ner_rgu and configuration for tools like black
-│
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
@@ -37,11 +29,7 @@ NER RGU PhD Interview Task 2025
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-├── setup.cfg          <- Configuration file for flake8
-│
 └── ner_rgu   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes ner_rgu a Python module
     │
     ├── config.py               <- Store useful variables and configuration
     │
@@ -59,3 +47,6 @@ NER RGU PhD Interview Task 2025
 
 --------
 
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
