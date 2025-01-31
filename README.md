@@ -75,7 +75,7 @@ In the main project directory run
 ```
 python -m ner_rgu.modeling.predict org
 ```
-org is the name of original sample, you can also use the names in data/raw which are test_1, test_2, test_3, test_4.
+org is the name of original sample, you can also use the names in `data/raw` which are test_1, test_2, test_3, test_4.
 
 The output of the could would be like this
 ```
