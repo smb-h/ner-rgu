@@ -46,7 +46,7 @@ To evaluate my method I have used ChatGPT o1 to create 4 more data samples. Here
 
     
 ```
-I have given you a sample transcript of a brief conversation between 2 attendees at a meeting. The conversation consists of each attendee introducing themselves in different ways, while also referring to other people. Three of the attendees speak more than once. The following is an example:
+I have given you a sample transcript of a brief conversation between 2 attendees at a meeting. The conversation consists of each attendee introducing themselves in different ways, while also referring to other people. The following is an example:
 Speaker1: Hi, my name is John Smith.
 Speaker2: Hi John, hi everyone, my name is Jane Brown.
 Speaker1: Nice to meet you, Jane.
